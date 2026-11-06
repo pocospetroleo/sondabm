@@ -1,25 +1,25 @@
 {
- "name": "BM Sonda",
- "short_name": "BM Sonda",
- "description": "BDO, report do fiscal e Boletim de Medição",
- "start_url": "./",
- "scope": "./",
- "display": "standalone",
- "background_color": "#0a2342",
- "theme_color": "#0a2342",
- "lang": "pt-BR",
- "icons": [
-  {
-   "src": "icon-192.png",
-   "sizes": "192x192",
-   "type": "image/png",
-   "purpose": "any maskable"
-  },
-  {
-   "src": "icon-512.png",
-   "sizes": "512x512",
-   "type": "image/png",
-   "purpose": "any maskable"
-  }
- ]
+  "name": "BM Sonda",
+  "short_name": "BM Sonda",
+  "description": "BDO, report do fiscal e Boletim de Medição",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a2342",
+  "theme_color": "#0a2342",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/pocospetroleo/gestao-pocos-operacional/main/emblema-gp-original.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/pocospetroleo/gestao-pocos-operacional/main/emblema-gp-original.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
